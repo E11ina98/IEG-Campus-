@@ -1,0 +1,7 @@
+Product | Quantity | Price
+tv|1|2355.66
+Radio|45|234.5
+Toaster|3|756.55
+peti|1|23.33
+wee|2|3334.0
+fdhl|1|34.44

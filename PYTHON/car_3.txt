@@ -1,0 +1,4 @@
+Toyota|Supra|2020|5.6.2023|RY 687|250600.0|243000.0|available
+GTR|Skyline|2024|12.12.2024|TY 67|250000.0|888.0|unavailable
+BMW|Z4|2023|4.7.2025|WP 487|515100.0|500000.0|available
+Bugatti|Veyron|2024|9.8.2026|V 7|1004521.0|1000000.0|available

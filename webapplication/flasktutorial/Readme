@@ -1,0 +1,24 @@
+Installation and configuration of Virtual Environment and Flask library
+
+1) create a folder called flasktutorial
+2) open the folder flasktutorial inside the visula studio code
+3) go to terminal and run the command "python -m venv virtual"
+4) you can see the virtual folder is created
+5) to activate the virtual environment "cd virtual\scripts"
+6) type "activate"
+7) you can see (virtual) current working folder path
+8) let us install flask libraries inside the virtual environmne
+9) type cd...and again cd..
+10) now you will be inside the flasktutorial
+11) now you type pip install flask
+12) the prev command will install all the necessary library inside the virtual\Lib\site-packages folder
+13) to come out of virtual of environment
+14) type cd virtual
+15) type cd Scripts
+16) type cd activate/ deactivate
+
+Developing web application using flask
+
+
+1) cretae a python program called app.python 
+2) in the terminal mkae sure yiu are inside the folder where the app.py is

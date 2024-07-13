@@ -1,0 +1,4 @@
+Proton|Saga|2021|2.3.2021|DF 230|16000.0|23000.0|available
+Hyundai|Elantra|2022|3.2.2023|R 15|102000.0|90000.0|available
+Perodua|Myvi|2022|2.1.2023|RY 678|24500.0|18000.0|not available
+GTR|Skyline|2024|24.3.2025|TY 67|2450000.0|200000.0|unavailable

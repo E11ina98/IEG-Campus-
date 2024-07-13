@@ -1,0 +1,4 @@
+Make|Model|Year|Roadtax Expiry|VIN|Cost Price|Current Price|Status
+Perodua|Myvi|2023|12.09.2023|JKL 345|45000.0|32000.0|available
+Honda|City|2023|5.12.2024|VBN 567|90000.0|60000.0|  Not Available
+Toyota|Camry|2019|23.11.2023|QSD 689|98000.0|50000.0|      Available
