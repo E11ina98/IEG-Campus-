@@ -6,6 +6,7 @@ class Pokemon:
         self.name = name
         self.health = health
         self.element = element
+        
 
     def doMove(self):
         print("Pokemon Move")
